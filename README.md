@@ -5,7 +5,7 @@
 **Enter both of your names below. If we cannot figure out who did the assignment, we cannot grade it!**
 ### Name: Matthew Nickerson
 
-### Name: 
+### Name: Sahana Gokulakrishnan
 ---
 Use this assignment to get up to speed with React.js using the Webstorm IDE, and using Git with another person. When you have completed the assignment, make sure to push your repository to your assignment2b github repository. 
 

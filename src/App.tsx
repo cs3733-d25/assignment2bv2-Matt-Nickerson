@@ -15,6 +15,7 @@ import Form1 from './components/Form1.tsx';
 import snowmobileImage from './assets/snowmobiling.jpg';
 import bakingImage from './assets/baking.jpg';
 import './styles.css';
+import './lists.css'
 
 const App: React.FC = () => {
     return (

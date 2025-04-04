@@ -3,7 +3,7 @@ import React from 'react';
 const List2: React.FC = () => {
     return (
         <div>
-            <h4>Some parts of a Snowmobile:</h4>
+            <h2>Some parts of a Snowmobile:</h2>
             <ul className="parts">
                 <li style={{ color: 'darkcyan' }}>Body</li>
                 <li>Skis</li>

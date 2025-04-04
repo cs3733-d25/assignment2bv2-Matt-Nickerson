@@ -6,7 +6,7 @@ const List1: React.FC = () => {
             <h2>Best bake stores near WPI:
             </h2>
             <ul>
-                <li>Crust Bakeshop</li>
+                <li style={{color: "lightblue"}}>Crust Bakeshop</li>
                 <li>On the Rise Baking</li>
                 <li>CB Bakery</li>
                 <li>Worcester Sweets Cafe</li>

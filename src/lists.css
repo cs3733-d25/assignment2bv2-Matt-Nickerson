@@ -7,9 +7,11 @@
 .ul li {
     font-size: 1rem;
     margin: 5px 0;
+    font-family: "Arial", sans-serif;
 }
 .hr {
     width: 80%;
     margin: 20px 0;
     border: 1px solid #ddd;
 }
+
